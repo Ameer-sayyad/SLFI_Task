@@ -6,13 +6,6 @@ A complete automated pipeline for forced alignment of audio and transcripts usin
 
 **Platform Support:** This pipeline has been fully tested and implemented on **macOS** and works completely fine. Linux users should have the same experience. Windows users can use Git Bash or WSL to run the shell scripts (see instructions below).
 
-## Quick Start
-
-**Clone the repository:**
-```bash
-git clone https://github.com/Satyamkumarnavneet/mfa-aligner.git
-cd mfa-aligner
-```
 
 **Install and run:**
 
